@@ -1,8 +1,8 @@
-# Simon-Game
+![image](https://github.com/izuzie/Simon-Game/assets/124896029/c5ccc67a-9ecf-415b-9772-ac6e4ee9b4fa)# Simon-Game
 
 The classic Simon memory game.
 
-<a href="http://simple-simon-game.com/">Demo</a>
+<a href="https://izuzie.github.io/Simon-Game/">Demo</a>
 
 ### Screenshots:
-<img src="#" alt="3x3">
+<img src="screenshot.png" alt="simon game">
