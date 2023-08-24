@@ -2,7 +2,7 @@
 
 The classic Simon memory game.
 
-<a href="https://izuzie.github.io/Simon-Game/">Demo</a>
+<a href="https://zzmoni.github.io/Simon-Game/">Demo</a>
 
 
 
